@@ -7,7 +7,7 @@ use Tk;
 # $n = 15;               # Nombre de boules
 $tbase = 80000;   # Periode de la fondamentale (ms)
 $harmo1 = 4;     # Numero de la plus petite harmonique affectee a une boule
-$n = 40;               # Nombre de boules
+$n = 20;               # Nombre de boules
 
 $r = 10;               # Rayon des boules
 $dh = 20;              # separation verticale entre les boules
