@@ -1,4 +1,4 @@
-
+# C'est un vieil essai de Perl + Tk (2012 ou antérieur)
 
 use Tk;
 
