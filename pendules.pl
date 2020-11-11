@@ -1,6 +1,7 @@
 # C'est un vieil essai de Perl + Tk (2012 ou antérieur)
 #
 # Il simule l'oscillation simultanée de pendules de longueurs differentes
+# Il existe des vidéos qui montrent ça sur YouTube
 
 use Tk;
 
