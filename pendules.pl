@@ -3,6 +3,8 @@
 # Il simule l'oscillation simultanée de pendules de longueurs differentes
 # Il existe des vidéos qui montrent ça sur YouTube
 
+# Ca, c'est pour essayer un pull request !
+
 use Tk;
 
 # $tbase = 80000;   # Periode de la fondamentale (ms)
